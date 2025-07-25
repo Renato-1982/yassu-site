@@ -1,0 +1,16 @@
+.circulo{
+    width: 130px;
+    height: 130px;
+    /*background-color: #0095eb;*/
+    font-size: 16px;
+    padding-top: 24px;
+    cursor: pointer;
+}
+.circulo:hover{
+    background-color: #f8d7da;
+    color: #fff;    
+}
+.centralizar{
+    margin: 0 auto !important;
+    float: none !important;
+}
